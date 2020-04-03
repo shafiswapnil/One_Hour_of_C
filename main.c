@@ -17,10 +17,7 @@ int main()
 	double gpa2 = 2.99;
 	double gpa3 = 3.65;
 	double avg = (gpa1 + gpa2 + gpa3) / 3.0;
-	// double avg = (gpa1 + gpa2 + gpa3) / 0.0;
-	// won't work
-
-	// Conditional Logic
+	// double avg = (gpa1 + gpa2 + gpa3) / 0.0;		// won't work
 
 	printf("Average GPA among 3 students: %.2lf\n", avg);
 
