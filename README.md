@@ -10,3 +10,14 @@ Practised C programming with Tamim Shahriar Subin.
   - Operating System - Cross platform
   - ANSI C since 1989
 
+## Variable and Data types
+
+  - You have to declare the right data type before a variable
+  - You don't have to remember all the data types, if you keep practicing, you'll know when to use what
+
+## Basic Arithmatic
+
+... ...
+
+## Conditional Logic
+
